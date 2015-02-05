@@ -1,0 +1,6 @@
+# I want to ignore the compiled binaries
+# Ignore all
+*
+
+#Unignore files with extenstions
+!*.*
